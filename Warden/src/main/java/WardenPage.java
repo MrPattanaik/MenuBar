@@ -57,7 +57,7 @@ public class WardenPage extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("SHREE-ENG-0078", 0, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Registration");
+        jLabel1.setText("Warden Form");
         jLabel1.setToolTipText("");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
